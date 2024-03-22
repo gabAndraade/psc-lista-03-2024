@@ -10,7 +10,7 @@ public class Numeroum{
             n1 = scanner.nextDouble();
         System.out.println("Informe o segundo número: ");
             n2 = scanner.nextDouble();
-        System.out.println("Informe o segundo número: ");
+        System.out.println("Informe o terceiro número: ");
             n3 = scanner.nextDouble();
         if(n1 > n2 && n1>n3){
             System.out.println("O maior número é: " + n1);
